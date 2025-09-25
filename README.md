@@ -45,23 +45,3 @@ The workflow includes:
 
 ```bash
 git clone https://github.com/gayathri-g-murali/book-sales-analysis-eda.git
-
-📈 Visualizations
-
-Genre-wise sales distribution
-
-Yearly Sales Trend
-
-Top-selling authors and books
-
-📝 Insights
-
-Best-selling genres and authors
-
-Seasonal patterns in sales
-
-Insights for marketing and inventory strategies
-
-💻 Tools & Libraries
-
-Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
